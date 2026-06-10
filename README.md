@@ -37,3 +37,10 @@ Email Me 💌 **nehaamundhra@gmail.com** For Collaboration/Project or Anything E
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nehaa1727&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehaa1727&layout=compact&theme=tokyonight)
