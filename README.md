@@ -1,75 +1,40 @@
-<h1 align="center">Hi 👋, I'm Neha Mundhra</h1>
+# Hi, I'm Neha Mundhra
 
-<h3 align="center">
-Full Stack Web Developer | MERN Stack Developer
-</h3>
+### A passionate Full Stack Web Developer || MERN Stack Developer || Sikar( Rajasthan ), India
 
-<p align="center">
-Passionate about building responsive and user-friendly websites 🚀
-</p>
+Email Me 💌 **nehaamundhra@gmail.com** For Collaboration/Project or Anything Else.
 
----
+- I’m currently working on real-world Full Stack Web Projects.
+- I’m currently learning and improving my MERN Stack Development skills.
 
-## 👩‍💻 About Me
+## 🌐 Socials:
 
-- 🌱 Currently learning **MERN Stack**
-- 💻 Interested in **Full Stack Web Development**
-- 🚀 Building real-world web projects
-- 📍 Sikar, Rajasthan
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neha-mundhra)
 
----
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:nehaamundhra@gmail.com)
 
-## 🌐 Connect With Me
+# 💻 Tech Stack:
 
-<p>
-<a href="https://linkedin.com/in/neha-mundhra">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Nodemon](https://img.shields.io/badge/Nodemon-darkgreen?style=for-the-badge&logo=nodemon)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-
----
-
-## 🚀 Projects
-
-🔹 Food Delivery App  
-🔹 Event Planner MERN Web  
-🔹 Personal Portfolio Website
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nehaa1727&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehaa1727&layout=compact&theme=tokyonight)
-
-<!--
-**Nehaa1727/Nehaa1727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React Router](https://img.shields.io/badge/React_Router-red?style=for-the-badge&logo=reactrouter)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
