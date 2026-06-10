@@ -9,9 +9,8 @@ Email Me 💌 **nehaamundhra@gmail.com** For Collaboration/Project or Anything E
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neha-mundhra)
-
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:nehaamundhra@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neha-mundhra)
 
 # 💻 Tech Stack:
 
